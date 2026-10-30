@@ -6,7 +6,7 @@ category: env | path | permission | api | workflow | cognition
 severity: minor | major | brutal
 ---
 
-[English](_template.md)
+[English](_template-模板.md)
 
 ## 症状
 
