@@ -2,15 +2,15 @@
 
 [🇨🇳 中文版](README-中文.md)
 
-> One practitioner's field notes from a year of living inside AI agents — the path I walked, the tools I built and then retired, and every pit I fell into along the way.
+> One practitioner's field notes from two years of living inside AI agents — the path I walked, the tools I built and then retired, and every pit I fell into along the way.
 
 ## 👋 Who I am
 
-I'm a practitioner who has spent the past year obsessed with exploring AI **agents**. My journey ran through **OpenClaw → Hermes → Claude Code**, with all sorts of other agents in between. For a long time, sharing never crossed my mind — I just kept building, breaking, and rebuilding.
+I'm a practitioner who has spent the past two years obsessed with exploring AI **agents**. My journey ran through **OpenClaw → Hermes → Claude Code**, with all sorts of other agents in between. For a long time, sharing never crossed my mind — I just kept building, breaking, and rebuilding.
 
 ## 🎯 Why this repo exists
 
-Honest confession first: I burned through a **staggering amount of tokens** this year, and for a long time almost nothing was left behind. No notes, no summaries — just the feeling of having moved fast.
+Honest confession first: over these two years I burned through a **staggering amount of tokens**, and for a long time almost nothing was left behind. No notes, no summaries — just the feeling of having moved fast.
 
 I'm a tool junkie. Every time a new component or agent framework shows up, I can't help but try it — which means I iterate *fast*. The side effect: many tools I wrote are already "iterated away" by me. I don't use them anymore. **But they're finished, they work, and they could genuinely help someone else.**
 
@@ -33,6 +33,8 @@ There's a saying going around: *"If you learn slowly, you might as well not lear
 | 🕳️ [`pitfalls-踩坑录/`](pitfalls-踩坑录/) | The pitfall log | One file per pit, numbered, logged the moment it's found — nothing too small |
 
 Naming convention across the repo: **English first, Chinese after** — friendly to browse. Default language is English; every page links to its Chinese twin (and vice versa). Pitfall entries follow [`_template-模板.md`](pitfalls-踩坑录/_template-模板.md).
+
+🆕 Latest note: [📝 00 · Prologue: Two Years, from Chatbox to Agent](notes-研究笔记/00-prologue-引子.md)
 
 ## 🙏 A small ask
 
