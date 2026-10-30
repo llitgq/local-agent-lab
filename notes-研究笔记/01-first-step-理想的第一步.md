@@ -52,3 +52,17 @@ I couldn't be bothered to learn the config file formats of OpenClaw and Hermes, 
 ## 📌 No lists here
 
 As for the specific free tools and API sites — tutorials and videos are all over the internet, one search covers it. Learning to find them yourself is part of step one.
+
+## ✅ Checklist
+
+- [ ] Dig out that old computer; copy personal data to a drive or cloud
+- [ ] Install a clean system
+- [ ] Download 1–2 free local agents (the signup-credit kind)
+- [ ] Have them install OpenClaw / Hermes / Claude Code for you
+- [ ] Register on 1–2 free compute sites (NVIDIA / OpenRouter / iFlytek…)
+- [ ] Wire a free API into your agent and get the first reply through
+- [ ] "This model is dumb" → check your config before blaming the model
+
+---
+
+⬆️ [Back to index](../README.md) · ⬅️ [Previous: 00 · Prologue](00-prologue-引子.md) · ➡️ [Next: 02 · The Ideal Second Step](02-second-step-理想的第二步.md)

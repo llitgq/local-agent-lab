@@ -51,3 +51,18 @@ An honest reflection: I wasted far, far too long inside OpenClaw and Hermes. Cla
 ## 🎯 The one-line summary
 
 Step two = master the config + write user/memory well + few but precise skills + broad categories + know your machine's limits + job-ify scheduled tasks + try multiple apps sideways. **Arm yourself first — then send the agent onto the field.**
+
+## ✅ Checklist
+
+- [ ] Walk through every config option; know what each one controls
+- [ ] Rehearse one model swap / API swap (top operation for free-tier users)
+- [ ] Write your user profile and memory properly
+- [ ] First batch of skills ≤ 3, each with a clear "what it does, when to use it"
+- [ ] Set assistants by broad category (life/work/study), not fine-grained
+- [ ] Try one small local model: vision / OCR / audio-to-text
+- [ ] Convert one scheduled task into a job (decomposed steps + regression checks)
+- [ ] Spend one real day each on OpenClaw / Claude Code Desktop / CLI
+
+---
+
+⬆️ [Back to index](../README.md) · ⬅️ [Previous: 01 · The Ideal First Step](01-first-step-理想的第一步.md) · ➡️ Next: to be continued

@@ -51,3 +51,7 @@ These days I've merged OpenClaw, Hermes, and Claude Code into a relatively peace
 ## 🔜 Next up
 
 This was just the prologue — the story of how I spent two years tinkering. From the next post on, I'll genuinely look back and break it down: **if you start this road from zero, how should you take the first few steps — to minimize cost and maximize results.**
+
+---
+
+⬆️ [Back to index](../README.md) · ➡️ [Next: 01 · The Ideal First Step](01-first-step-理想的第一步.md)
