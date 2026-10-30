@@ -34,7 +34,7 @@ There's a saying going around: *"If you learn slowly, you might as well not lear
 
 Naming convention across the repo: **English first, Chinese after** — friendly to browse. Default language is English; every page links to its Chinese twin (and vice versa). Pitfall entries follow [`_template-模板.md`](pitfalls-踩坑录/_template-模板.md).
 
-🆕 Latest note: [📝 00 · Prologue: Two Years, from Chatbox to Agent](notes-研究笔记/00-prologue-引子.md)
+🆕 Latest note: [📝 01 · The Ideal First Step: Free Resources First, Hardware Later](notes-研究笔记/01-first-step-理想的第一步.md)
 
 ## 🙏 A small ask
 
