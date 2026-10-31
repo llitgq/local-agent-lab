@@ -2,3 +2,7 @@
 .venv/
 __pycache__/
 node_modules/
+
+# 仅本地保留，不上 GitHub（2026-10-31 用户定）
+pitfalls-踩坑录/
+skills-技能分享/

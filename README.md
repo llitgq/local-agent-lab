@@ -29,10 +29,8 @@ There's a saying going around: *"If you learn slowly, you might as well not lear
 | Directory | Purpose | What lives there |
 |---|---|---|
 | 📝 [`notes-研究笔记/`](notes-研究笔记/) | Research & ideas | One topic per numbered file — thoughts on local agents |
-| 🛠️ [`skills-技能分享/`](skills-技能分享/) | Self-built skills | Skills I actually wrote and used — including ones I've retired but still run fine |
-| 🕳️ [`pitfalls-踩坑录/`](pitfalls-踩坑录/) | The pitfall log | One file per pit, numbered, logged the moment it's found — nothing too small |
 
-Naming convention across the repo: **English first, Chinese after** — friendly to browse. Default language is English; every page links to its Chinese twin (and vice versa). Pitfall entries follow [`_template-模板.md`](pitfalls-踩坑录/_template-模板.md).
+Naming convention across the repo: **English first, Chinese after** — friendly to browse. Default language is English; every page links to its Chinese twin (and vice versa).
 
 🆕 Latest note: [📝 02 · The Ideal Second Step: Master the Config Before the Work](notes-研究笔记/02-second-step-理想的第二步.md)
 
