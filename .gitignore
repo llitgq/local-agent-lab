@@ -3,8 +3,9 @@
 __pycache__/
 node_modules/
 
-# 内容仅本地保留，线上只留目录骨架（2026-10-31 用户定）
+# 内容仅本地保留，线上只留目录骨架；上架需用户点名逐个放行（2026-10-31 用户定）
 pitfalls-踩坑录/*
 !pitfalls-踩坑录/.gitkeep
 skills-技能分享/*
 !skills-技能分享/.gitkeep
+!skills-技能分享/feishu-pro-飞书全家桶/

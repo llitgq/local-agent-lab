@@ -29,7 +29,7 @@ There's a saying going around: *"If you learn slowly, you might as well not lear
 | Directory | Purpose | What lives there |
 |---|---|---|
 | 📝 [`notes-研究笔记/`](notes-研究笔记/) | Research & ideas | One topic per numbered file — thoughts on local agents |
-| 🛠️ [`skills-技能分享/`](skills-技能分享/) | Self-built skills | Being packaged for release — coming soon |
+| 🛠️ [`skills-技能分享/`](skills-技能分享/) | Self-built skills | First up: **feishu-pro** — cards / bitable / calendar / docs / formulas / groups |
 | 🕳️ [`pitfalls-踩坑录/`](pitfalls-踩坑录/) | The pitfall log | One file per pit, numbered — entries coming soon |
 
 Naming convention across the repo: **English first, Chinese after** — friendly to browse. Default language is English; every page links to its Chinese twin (and vice versa).
