@@ -3,6 +3,8 @@
 __pycache__/
 node_modules/
 
-# 仅本地保留，不上 GitHub（2026-10-31 用户定）
-pitfalls-踩坑录/
-skills-技能分享/
+# 内容仅本地保留，线上只留目录骨架（2026-10-31 用户定）
+pitfalls-踩坑录/*
+!pitfalls-踩坑录/.gitkeep
+skills-技能分享/*
+!skills-技能分享/.gitkeep
